@@ -49,3 +49,8 @@ body {
 .input::placeholder{
     color: darkgray;
 }
+.button{
+  display: flex;
+  justify-content: end;
+  margin-right: 100px;
+}
